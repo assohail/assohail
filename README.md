@@ -32,7 +32,7 @@ MS Office Suite, Cisco Packet Tracer, Wireshark, MATLAB, AutoCAD, Unreal Engine,
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aamirsohail6/)
-- 🌐 [Portfolio](https://github.com/assohail/portfolio)
+- 🌐 [Portfolio](https://assohail.github.io/portfolio)
 - 📧 Email: aamirsohail9210@gmail.com
 
 ---
